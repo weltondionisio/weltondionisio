@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Welton Dionisio!
 - I’m interested in get a data analyst position.
 - I’m currently learning to create my own projects in Python.
-- 📫 How to reach me in:
+- 📫 How to reach me:
 - ResearchGate: https://www.researchgate.net/profile/Welton-Dionisio-Da-Silva?ev=hdr_xprf
 - Linkedin: https://www.linkedin.com/in/welton-dionisio-3783a3167/
 

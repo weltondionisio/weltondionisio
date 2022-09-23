@@ -5,7 +5,7 @@
 
 - Busco meu primeiro cargo como Analista de dados
 - Tenho conhecimento em estatística avançada e experiência com a linguagem R na solução de hipóteses científicas
-- Atualmente estou me desenvolvendo em Python e Machine Learning na Ada Tech.
+- Atualmente estou me desenvolvendo em Python e Machine Learning na Ada Tech
 
 ---
 

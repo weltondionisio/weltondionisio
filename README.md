@@ -7,7 +7,7 @@
 - ResearchGate: https://www.researchgate.net/profile/Welton-Dionisio-Da-Silva?ev=hdr_xprf
 - Linkedin: https://www.linkedin.com/in/welton-dionisio/
 <div id="badges">
-  <a href="https://www.linkedin.com/in/welton-dionisio/">
+  <a href="https://www.linkedin.com/in/weltondionisio/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!---

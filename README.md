@@ -4,16 +4,20 @@
 </h1>
 
 - Busco meu primeiro cargo como Analista de dados.
-- Tenho experiência com a linguagem R e atualmente estou me desenvolvendo em Python.
----
-<h1>Formação</h1>
---
-Graduado em Ciências Biológicas - UFPE
-Mestre em Biologia Animal - UFPE
-Doutorando em Ciências Biológicas - UFPB
+- Tenho conhecimento em estatística avançada e experiência com a linguagem R na solução de hipóteses científicas;
+- Atualmente estou me desenvolvendo em Python e Machine Learning.
+
 ---
 
-📫 Outras redes
+<h1>Formação</h1>
+--
+- Graduado em Ciências Biológicas - UFPE
+- Mestre em Biologia Animal - UFPE
+- Doutorando em Ciências Biológicas - UFPB
+
+---
+
+<h1>Outras redes</h1>
 --
 <div id="badges">
   <a href="https://www.linkedin.com/in/weltondionisio/">

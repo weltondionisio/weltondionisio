@@ -10,15 +10,12 @@
 ---
 
 <h1>Formação</h1>
---
+
 - Graduado em Ciências Biológicas - UFPE
 - Mestre em Biologia Animal - UFPE
 - Doutorando em Ciências Biológicas - UFPB
 
----
-
 <h1>Outras redes</h1>
---
 <div id="badges">
   <a href="https://www.linkedin.com/in/weltondionisio/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

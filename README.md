@@ -2,6 +2,9 @@
 
 - Busco meu primeiro cargo como Analista de dados.
 - Tenho experiência com a linguagem R e atualmente estou me desenvolvendo em Python.
+---
+
+---
 
 📫 Outros contatos:
 <div id="badges">

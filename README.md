@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Welton Dionisio!
+👋 Olá, eu sou Welton Dionisio!
 
+- Busco meu primeiro cargo como Analista de dados.
+- Tenho experiência com a linguagem R e atualmente estou me desenvolvendo em Python.
 
-- I’m interested in get a data analyst position.
-- I’m currently learning to create my own projects in Python.
-
-- 📫 How to reach me:
+📫 Outros contatos:
 <div id="badges">
   <a href="https://www.linkedin.com/in/weltondionisio/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

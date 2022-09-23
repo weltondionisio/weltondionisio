@@ -1,6 +1,6 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  👋 Olá, eu sou Welton Dionisio!
+  Olá, eu sou Welton Dionisio!
 </h1>
 
 - Busco meu primeiro cargo como Analista de dados.

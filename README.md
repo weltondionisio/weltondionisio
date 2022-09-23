@@ -3,7 +3,7 @@
   Olá, eu sou Welton Dionisio!
 </h1>
 
-- Tenho experiência com estatística avançada e a linguagem R na solução de hipóteses científicas e construção de modelos preditivos
+- Tenho experiência com estatística avançada e linguagem R na solução de hipóteses científicas e construção de modelos preditivos
 - Atualmente estou me desenvolvendo em Python e Machine Learning na Ada Tech
 
 ---

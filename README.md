@@ -11,7 +11,7 @@
 
 <h1>Formação</h1>
 
-- Graduado em Ciências Biológicas - UFPE
+- Bacharel em Ciências Biológicas - UFPE
 - Mestre em Biologia Animal - UFPE
 - Doutorando em Ciências Biológicas - UFPB
 

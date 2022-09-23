@@ -1,12 +1,19 @@
-👋 Olá, eu sou Welton Dionisio!
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  👋 Olá, eu sou Welton Dionisio!
+</h1>
 
 - Busco meu primeiro cargo como Analista de dados.
 - Tenho experiência com a linguagem R e atualmente estou me desenvolvendo em Python.
 ---
-
+Formação
+--
+Graduado em Ciências Biológicas - UFPE
+Mestre em Biologia Animal - UFPE
+Doutorando em Ciências Biológicas - UFPB
 ---
 
-📫 Outras rede:
+📫 Outras redes
 --
 <div id="badges">
   <a href="https://www.linkedin.com/in/weltondionisio/">

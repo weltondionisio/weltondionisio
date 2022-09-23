@@ -6,7 +6,7 @@
 - Busco meu primeiro cargo como Analista de dados.
 - Tenho experiência com a linguagem R e atualmente estou me desenvolvendo em Python.
 ---
-Formação
+<h1>Formação</h1>
 --
 Graduado em Ciências Biológicas - UFPE
 Mestre em Biologia Animal - UFPE

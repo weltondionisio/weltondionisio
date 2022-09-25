@@ -6,8 +6,8 @@
 - Experiente em estatística avançada e linguagem R na resolução de hipóteses e construção de modelos preditivos
 - Atualmente estou me desenvolvendo em Python e Machine Learning na Ada Tech
 
-<a href="https://www.linkedin.com/in/weltondionisio/">
-    <"ADA"/>
+<a href="https://letscode.com.br/">
+    <Ada Tech/>
   </a>
 ---
 

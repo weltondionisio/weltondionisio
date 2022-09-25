@@ -7,7 +7,7 @@
 - Atualmente estou me desenvolvendo em Python e Machine Learning na Ada Tech
 
 <a href="https://letscode.com.br/">
-    <Ada Tech/>
+    <"Ada Tech"/>
   </a>
 ---
 

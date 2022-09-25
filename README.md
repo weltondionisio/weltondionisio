@@ -4,11 +4,8 @@
 </h1>
 
 - Experiente em estatística avançada e linguagem R na resolução de hipóteses e construção de modelos preditivos
-- Atualmente estou me desenvolvendo em Python e Machine Learning na Ada Tech
+- Atualmente estou me desenvolvendo em Python e Machine Learning na <a href="https://letscode.com.br/"> Ada Tech </a>
 
-<a href="https://letscode.com.br/">
-    "Ada Tech"
-  </a>
 ---
 
 <h1>Formação</h1>

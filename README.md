@@ -22,6 +22,9 @@
   <a href="https://www.researchgate.net/profile/Welton-Dionisio-Da-Silva">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="RG Badge"/>
   </a>
+  <a href="https://orcid.org/0000-0002-3847-4418">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="Orcid Badge"/>
+  </a>
 </div>
 <!---
 weltondionisio/weltondionisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

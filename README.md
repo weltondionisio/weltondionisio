@@ -3,7 +3,7 @@
   Olá, eu sou Welton Dionisio!
 </h1>
 
-- Analiso dados nas linguagens R e Python e construo modelos preditivos
+- Analiso dados nas linguagens R e Python (com versionamento de códigos) e construo modelos preditivos
 - Atualmente cursando Python e Dados na <a href="https://letscode.com.br/"> Ada Tech </a>
 
 ---

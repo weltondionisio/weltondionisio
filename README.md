@@ -5,7 +5,7 @@
 
 - Analiso dados nas linguagens R e Python e construo modelos preditivos
 - Versionando aqui alguns desafios e análises que executei
-- Atualmente cursando Python e Dados na <a href="https://ada.tech/"> Ada Tech </a>
+- Atualmente cursando Python e Dados na <a href="https://letscode.com.br/python-e-dados"> Ada Tech </a>
 
 ---
 

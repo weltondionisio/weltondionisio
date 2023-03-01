@@ -4,8 +4,7 @@
 </h1>
 
 - Analiso dados nas linguagens R e Python e construo modelos preditivos
-- Versionando aqui alguns desafios e análises que executei
-- Atualmente cursando Python e Dados na <a href="https://letscode.com.br/python-e-dados"> Ada Tech </a>
+- Versionando aqui alguns códigos e análises que executei
 
 ---
 
@@ -14,6 +13,7 @@
 - Bacharel em Ciências Biológicas - UFPE
 - Mestre em Biologia Animal - UFPE
 - Doutorando em Ciências Biológicas - UFPB
+- Especialista em Python, SQL e PowerBI - <a href="https://letscode.com.br/python-e-dados"> Ada Tech </a>
 
 <h1>Outras redes</h1>
 <div id="badges">

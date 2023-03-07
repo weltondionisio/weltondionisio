@@ -7,9 +7,10 @@
 - Versionando aqui alguns códigos e análises que executei
 
 <div id="badges">
-  <img src="[https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white]" alt="LinkedIn Badge"/>
+  <a
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  </div>
 
 ---
 

@@ -6,6 +6,11 @@
 - Analiso dados nas linguagens R e Python e construo modelos preditivos
 - Versionando aqui alguns códigos e análises que executei
 
+<div id="badges">
+  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)" alt="LinkedIn Badge"/>
+  </a>
+
+
 ---
 
 <h1>Formação</h1>

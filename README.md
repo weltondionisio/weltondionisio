@@ -6,14 +6,6 @@
 - Analiso dados nas linguagens R e Python e construo modelos preditivos
 - Versionando aqui alguns códigos e análises que executei
 
-<div id="badges">
-  <img src= "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src= "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
-  <img src= "https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white"/>
-  </div>
-
 ---
 
 <h1>Formação</h1>
@@ -22,6 +14,17 @@
 - Mestre em Biologia Animal - UFPE
 - Doutorando em Ciências Biológicas - UFPB
 - Especialista em Python, SQL e PowerBI - <a href="https://letscode.com.br/python-e-dados"> Ada Tech </a>
+
+---
+<h1>Tecnologias</h1>
+
+<div id="badges">
+  <img src= "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+  <img src= "https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white"/>
+  </div>
 
 <h1>Outras redes</h1>
 <div id="badges">

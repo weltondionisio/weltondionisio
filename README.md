@@ -8,9 +8,10 @@
 
 <div id="badges">
   <img src= "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src= />
-  <img src= />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="LinkedIn Badge"/>
+  <img src= "https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+  <img src= "https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white"/>
   </div>
 
 ---

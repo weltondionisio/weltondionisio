@@ -10,8 +10,6 @@
 
 <h1>Formação</h1>
 
-- Bacharel em Ciências Biológicas - UFPE
-- Mestre em Biologia Animal - UFPE
 - Doutorando em Ciências Biológicas - UFPB
 - Especialista em Python, SQL e PowerBI - <a href="https://letscode.com.br/python-e-dados"> Ada Tech </a>
 

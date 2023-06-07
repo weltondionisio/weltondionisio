@@ -11,6 +11,7 @@
 <h1>Formação</h1>
 
 - Doutorando em Ciências Biológicas - UFPB
+- Professor de matemática em João Pessoa, PB
 - Especialista em Python, SQL e PowerBI - <a href="https://letscode.com.br/python-e-dados"> Ada Tech </a>
 
 ---

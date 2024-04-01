@@ -12,9 +12,9 @@
 
 - Pós-graduado (Especialização) em Data Science - <a href="https://descomplica.com.br/pos-graduacao/tecnologia/pos-online-em-data-science/?utm_source=google&utm_medium=cpc&utm_campaign=gmax_pg_performance_gwt-paid-media_topo_conversao_ongoing_lead_2023&utm_term=&utm_content=junho-2023-data-science&utm_term=&utm_campaign=gmax_pg_performance_gwt-paid-media_topo_conversao_ongoing_lead_2023&utm_source=adwords&utm_medium=ppc&hsa_acc=2613762623&hsa_cam=20277069515&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwrranBhAEEiwAzbhNtVGO2QSKMPwA04X6CO70yImuKr-qkycroqf3p9qOit88TY9nPRQCZBoCcl4QAvD_BwE"> Descomplica Faculdade Digital </a>
 - Formação complementar em Python, SQL e PowerBI - <a href="https://letscode.com.br/python-e-dados"> Ada Tech </a>
-- Professor em João Pessoa, PB
 - Doutor em Ciências Biológicas - UFPB
-
+- Professor em João Pessoa, PB
+  
 ---
 <h1>Tecnologias</h1>
 

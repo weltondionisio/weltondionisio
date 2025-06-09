@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black"/>
   <img src= "https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/>
   </div>
 
 <h1>Outras redes</h1>
@@ -38,6 +41,12 @@
   <a href="https://orcid.org/0000-0002-3847-4418">
     <img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="Orcid Badge"/>
   </a>
+</div>
+
+<h1>Jobs</h1>
+<div id="badges">
+    <img src="https://img.shields.io/badge/Senac-orange?style=for-the-badge&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/USP-white?style=for-the-badge&logoSize=auto"/>
 </div>
 <!---
 weltondionisio/weltondionisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

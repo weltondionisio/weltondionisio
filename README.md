@@ -10,9 +10,10 @@
 
 <h1>Formação</h1>
 
-- Pós-doutorando em projeto de IA aplicado à Saúde Pública na Universidade de São Paulo (USP)
-- Professor Convidado no Senac em Data Science e Engenharia de Software
-- Especialista em Data Science (360h) com MBA em Big Data e Inteligência Competitiva (360h)
+- Pesquisador de pós-doutorado em projeto de IA na Universidade de São Paulo (USP)
+- Professor de Tecnologia no SENAC
+- MBA em Big Data e Inteligência Competitiva
+- Especialista em Data Science
 - Doutor em Ciências Biológicas - UFPB
 
   

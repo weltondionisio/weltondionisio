@@ -42,6 +42,9 @@
   <a href="https://www.researchgate.net/profile/Welton-Dionisio-Da-Silva">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="RG Badge"/>
   </a>
+    <a href="http://lattes.cnpq.br/5824616728541618">
+    <img src="https://img.shields.io/badge/cv_lattes-blue?style=for-the-badge" alt="Lattes Badge"/>
+  </a>
   <a href="https://orcid.org/0000-0002-3847-4418">
     <img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="Orcid Badge"/>
   </a>

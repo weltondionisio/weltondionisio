@@ -13,7 +13,7 @@
 - Pesquisador de pós-doutorado em projeto de IA na Universidade de São Paulo (USP)
 - Professor de Tecnologia no SENAC
 - MBA em Big Data e Inteligência Competitiva
-- Especialista em Data Science
+- Especialização em Data Science
 - Doutor em Ciências Biológicas - UFPB
 
   

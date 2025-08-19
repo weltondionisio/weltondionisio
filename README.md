@@ -37,9 +37,6 @@
 
 <h1>Outras redes</h1>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/weltondionisio/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.instagram.com/dr.dosdados/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -62,4 +59,7 @@
 <!---
 weltondionisio/weltondionisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<a href="https://www.linkedin.com/in/weltondionisio/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 --->

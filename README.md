@@ -8,7 +8,7 @@
 
 ---
 
-<h1>Formação</h1>
+<h1>Formação & Atuação</h1>
 
 - Pesquisador de pós-doutorado em projeto de IA na Universidade de São Paulo (USP)
 - Professor de Tecnologia no SENAC
@@ -54,10 +54,10 @@
   </a>
 </div>
 
-<h1>Jobs</h1>
+<h1>Experiências</h1>
 <div id="badges">
-    <img src="https://img.shields.io/badge/Senac-orange?style=for-the-badge&logoSize=auto"/>
     <img src="https://img.shields.io/badge/USP-white?style=for-the-badge&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/Senac-orange?style=for-the-badge&logoSize=auto"/>
 </div>
 <!---
 weltondionisio/weltondionisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

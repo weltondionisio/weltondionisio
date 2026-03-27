@@ -56,7 +56,6 @@
 <h1>Experiências</h1>
 <div id="badges">
     <img src="https://img.shields.io/badge/USP-white?style=for-the-badge&logoSize=auto"/>
-    <img src="https://img.shields.io/badge/Senac-orange?style=for-the-badge&logoSize=auto"/>
 </div>
 <!---
 weltondionisio/weltondionisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

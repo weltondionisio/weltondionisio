@@ -11,10 +11,9 @@
 <h1>Formação & Atuação</h1>
 
 - Pesquisador de pós-doutorado em projeto de IA na Universidade de São Paulo (USP)
-- Professor de Tecnologia no SENAC
-- MBA em Big Data e Inteligência Competitiva
-- Especialização em Data Science
-- Doutor em Ciências Biológicas - UFPB
+- Especializações em Data Science (360h) e Engenharia de Software (500h)
+- MBA em Big Data e Inteligência Competitiva (360h)
+- Doutor em Ciências Biológicas (UFPB)
 
   
 ---

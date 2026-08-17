@@ -11,7 +11,7 @@
 <h1>Formação & Atuação</h1>
 
 - Pesquisador de pós-doutorado em projeto com redes neurais artificiais na Universidade de São Paulo (USP)
-- Especializações em Data Science (360h) e Engenharia de Software (500h)
+- Especializações em: Data Science (360h) e Engenharia de Software (500h)
 - MBA em Big Data e Inteligência Competitiva (360h)
 - Doutor em Ciências Biológicas (UFPB)
 

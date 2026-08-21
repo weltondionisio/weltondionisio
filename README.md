@@ -51,9 +51,6 @@
     <img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="Orcid Badge"/>
   </a>
 </div>
-
-<h1>Experiências</h1>
-<div id="badges">
     <img src="https://img.shields.io/badge/USP-white?style=for-the-badge&logoSize=auto"/>
 </div>
 <!---
